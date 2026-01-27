@@ -1,8 +1,0 @@
-logging:
-  level:
-    root: DEBUG
-
-spring:
-  datasource:
-    hikari:
-      maximum-pool-size: 10
